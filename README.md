@@ -28,6 +28,7 @@ It stores student information and reads student records from TXT, CSV, and JSON 
 
 ## Project Structure
 
+s## Project Structure
 student-record-system/
 │
 ├── student.py
@@ -39,7 +40,6 @@ student-record-system/
     ├── students.txt
     ├── students.csv
     └── students.json
-
 ## How to Run
 
 For TXT:
