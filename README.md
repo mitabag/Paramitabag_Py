@@ -25,7 +25,7 @@ It stores student information and reads student records from TXT, CSV, and JSON 
 - JSON
 - Argparse
 - Object-Oriented Programming
-- 
+  
 ## Project Structure
 
 - student-record-system
