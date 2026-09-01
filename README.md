@@ -56,6 +56,4 @@ python main.py --file data/students.json --format json
 
 The project contains 5 student records.
 
-## Author
-
 Paramita Bag
