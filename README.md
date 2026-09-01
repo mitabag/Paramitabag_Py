@@ -100,18 +100,17 @@ In GitHub, replace everything under ## Project Structure with exactly this:
 
 ## Project Structure
 
--student-record-system/
-|
-|-- student.py
-|-- manager.py
-|-- main.py
-|-- file_handler.py
-|
-|-- data/
-    |-- students.txt
-    |-- students.csv
-    |-- students.json
+- student-record-system
+  - student.py
+  - manager.py
+  - main.py
+  - file_handler.py
+  - data
+    - students.txt
+    - students.csv
+    - students.json
 
+## How to Run
 ## How to Run
 
 This will copy easily and still clearly show your project structure. 👍
