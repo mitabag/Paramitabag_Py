@@ -29,17 +29,20 @@ It stores student information and reads student records from TXT, CSV, and JSON 
 ## Project Structure
 
 s## Project Structure
+## Project Structure
+
 student-record-system/
-│
-├── student.py
-├── manager.py
-├── main.py
-├── file_handler.py
-│
-└── data/
-    ├── students.txt
-    ├── students.csv
-    └── students.json
+|
+|-- student.py
+|-- manager.py
+|-- main.py
+|-- file_handler.py
+|
+|-- data/
+    |-- students.txt
+    |-- students.csv
+    |-- students.json
+
 ## How to Run
 
 For TXT:
