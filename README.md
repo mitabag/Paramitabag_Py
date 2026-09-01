@@ -55,5 +55,3 @@ python main.py --file data/students.json --format json
 ## Sample Data
 
 The project contains 5 student records.
-
-Paramita Bag
