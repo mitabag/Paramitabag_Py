@@ -27,9 +27,6 @@ It stores student information and reads student records from TXT, CSV, and JSON 
 - Object-Oriented Programming
 
 ## Project Structure
-
-s## Project Structure
-## Project Structure
 student-record-system/
 |
 |-- student.py
@@ -43,7 +40,6 @@ student-record-system/
     |-- students.json
 
 ## How to Run
-
 This will copy easily and still clearly show your project structure. 👍
 
 Don't worry about the │ symbols. The |-- version is perfectly understandable for your assignment.
